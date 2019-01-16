@@ -1,4 +1,3 @@
-#one
 ## Lorem Ipsum
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis congue fermentum ultricies. Donec semper tincidunt arcu, a fermentum lacus tincidunt nec. Morbi placerat massa vestibulum tincidunt pharetra. Sed sed ultricies nulla. Sed bibendum vitae dui nec accumsan. In iaculis lectus at leo sollicitudin iaculis. Donec lacinia ut nibh ut vestibulum. Donec vel efficitur quam.
@@ -9,5 +8,11 @@
 
 [Lorem Ipsum Generator](https://ru.lipsum.com/ "Lorem")
 
-![not loaded]
+! [not loaded]
 (https://camo.githubusercontent.com/6bbea9a9aa52b24f7d3a1d56ab7855db445180a7/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a7453797576335a5243667353443561584237763844512e706e67)
+
+|Предмет	|Количество	|Цена
+|---------|-----------|----
+|Арбуз	|3	|150
+|Груша	|10	|230
+|Вишня	|80	|340
